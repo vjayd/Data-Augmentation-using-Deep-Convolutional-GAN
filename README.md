@@ -11,7 +11,7 @@ This repository contains code to generate faces from the given [celebrity datase
 You can also use this code for data augmentation just replace the celeb dataset with your dataset folder. Although GAN's have been found to be unstable while training re running the same code with same or different parameters will give you different resutls.
 
 Results:
-![Fake images](face.png)
+![Fake images](augmented.png)
 
 
 
