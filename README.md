@@ -12,5 +12,5 @@ You can also use this code for data augmentation just replace the celeb dataset 
 
 ## References: 
 [GAN](https://arxiv.org/abs/1406.2661)<br/>
-[Data Augmentation] (https://arxiv.org/pdf/1609.08764.pdf)<br/>
+[Data Augmentation](https://arxiv.org/pdf/1609.08764.pdf)<br/>
 [Pytorch tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
